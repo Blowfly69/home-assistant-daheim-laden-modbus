@@ -14,7 +14,8 @@
           "inverter1_unit": "Unit number of the main inverter",
           "inverter2_unit": "Unit number of the first slave inverter (0 = deactivate)",
           "inverter3_unit": "Unit number of the second slave inverter (0 = deactivate)",
-          "read_storage": "Read storage data (battery connected to main inverter)",
+          "read_battery_1": "Read battery 1 data (only when equipped)",
+          "read_battery_2": "Read battery 2 data (only when equipped)",
           "scan_interval": "The polling frequentie of the modbus registers in seconds"
         }
       }
