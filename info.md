@@ -1,6 +1,6 @@
-## SOLAREDGE MODBUS TCP
+## DAHEIM LADEN SOLAREDGE MODBUS TCP
 
-Home assistant Custom Component for reading data from Solaredge inverter through modbus TCP. Implements Inverter registers from https://www.solaredge.com/sites/default/files/sunspec-implementation-technical-note.pdf.
+Home assistant Custom Component for reading data from Daheim Laden wallbox through modbus TCP. Implements wallbox register definitions from https://www.daheimladen.de/_files/ugd/79aefd_1aa1b9522b83486781ef64c67ca7eb62.pdf.
 
 ### Features
 
