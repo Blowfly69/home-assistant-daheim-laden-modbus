@@ -1,5 +1,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
+WIP - NOT YET WORKING!
+
 # home-assistant-daheim-laden-modbus
 Home assistant Custom Component for reading and writing data from Daheim Laden wallbox through modbus TCP.
 Implements wallbox registers according to the [Daheim Laden API documentation of the Modbus tcpip interface][1]
